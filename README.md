@@ -1,6 +1,6 @@
 # ai-rag-poc
 
-an IA POC that implements a pretty basic RAG based on langchain embeddings, vectorDB and OpenAI, simulating a company chatbot.
+An IA POC that simulates a company chatbot implementing a pretty basic RAG based on langchain embeddings, vectorDB and OpenAI.
 
 
 # How to run
